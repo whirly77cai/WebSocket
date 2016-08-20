@@ -1,0 +1,23 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "sth about websocket",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whirly77cai/WebSocket.git"
+  },
+  "author": "xzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whirly77cai/WebSocket/issues"
+  },
+  "homepage": "https://github.com/whirly77cai/WebSocket#readme",
+   "dependencies": {
+    "async": "^2.0.1",
+    "crypto": "latest"
+  }
+}
